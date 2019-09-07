@@ -27,3 +27,7 @@ newFucntion(){
 newFucntion()2{
 	print "新分支再测试"
 }
+
+newFucntion()3{
+	print "新分支3测试"
+}
