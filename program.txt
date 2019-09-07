@@ -24,3 +24,8 @@ metho2()
 {
 	print "主分支更改"
 }
+
+metho3()
+{
+	print "主分支3改"
+}
