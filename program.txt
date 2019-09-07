@@ -19,3 +19,7 @@ show()2
 	string name = "大飞牛"
 	metho(name)
 }
+
+newFucntion(){
+	print "新分支付测试"
+}
