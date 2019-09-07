@@ -23,3 +23,7 @@ show()2
 newFucntion(){
 	print "新分支付测试"
 }
+
+newFucntion()2{
+	print "新分支再测试"
+}
