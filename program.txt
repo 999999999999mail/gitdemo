@@ -7,3 +7,9 @@ metho()
 {
 	print "my name is 小飞牛"
 }
+
+show()
+{
+	string name = "大飞牛"
+	metho(name)
+}
