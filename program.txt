@@ -20,7 +20,7 @@ show()2
 	metho(name)
 }
 
-metho()
+metho2()
 {
 	print "主分支更改"
 }
