@@ -13,3 +13,9 @@ show()
 	string name = "大飞牛"
 	metho(name)
 }
+
+show()2
+{
+	string name = "大飞牛"
+	metho(name)
+}
