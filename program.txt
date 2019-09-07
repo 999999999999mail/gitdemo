@@ -19,3 +19,8 @@ show()2
 	string name = "大飞牛"
 	metho(name)
 }
+
+metho()
+{
+	print "主分支更改"
+}
